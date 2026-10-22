@@ -10,7 +10,7 @@
     "render:social": "cd social && npx hyperframes render --output=../../docs/social/rendered/race.mp4"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "yaml": "^2.7.0"
   },
   "devDependencies": {
